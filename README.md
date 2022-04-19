@@ -1,7 +1,4 @@
-# 1reading
-
-
-## 🤝Contributetor
+### 🤝Contributetor
 
 <table>
   <tr height="140px">
