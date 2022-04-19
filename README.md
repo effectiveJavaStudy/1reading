@@ -20,7 +20,7 @@
     <td align="center">
       <a href="https://github.com/libra10042"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/46278436?v=4"/></a>
       <br />
-      <a href="https://github.com/libra10042">충진s </a>
+      <a href="https://github.com/libra10042">충진's </a>
     </td>
   
   </tr>
