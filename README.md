@@ -1,4 +1,4 @@
-### 🤝Contributetor
+### 🤝Contributor
 
 <table>
   <tr height="140px">
