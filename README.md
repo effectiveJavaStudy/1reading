@@ -102,8 +102,17 @@ B팀 : 충진님, 성현님
 
 ---
 
+### Ground role
+
+Diposit 20,000.
 
 
+벌금
+
+   - 매주 화요일 스터디 미참가시 4000원
+        - 당일만 제외하고 discord나 kakao talk 에 남길 것. 
+        - 당일이어도, 누구나 참작 가능한 이유면 가능. 
+          ex) 경조사, 질병
 
 
 ---
@@ -131,3 +140,5 @@ test: 테스트 코드 추가
 참고 블로그
 
 [git commit convension](https://youngest-programming.tistory.com/550)
+
+[readme.md github참고](https://github.com/java-squid/effective-java) 
