@@ -80,4 +80,4 @@ test: 테스트 코드 추가
 
 참고 블로그
 
-git commit convesoin)[https://youngest-programming.tistory.com/550]
+[git commit convension](https://youngest-programming.tistory.com/550)
